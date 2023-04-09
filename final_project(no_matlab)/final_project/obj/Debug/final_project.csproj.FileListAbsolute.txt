@@ -1,0 +1,22 @@
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\bin\Debug\final_project.exe.config
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\bin\Debug\final_project.exe
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\bin\Debug\final_project.pdb
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.exe
+C:\Users\user\OneDrive\Documents\C#\final_project\final_project\obj\Debug\final_project.pdb
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\bin\Debug\final_project.exe.config
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\bin\Debug\final_project.exe
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\bin\Debug\final_project.pdb
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.Form1.resources
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.exe
+C:\Users\user\OneDrive\Documents\C#\final_project - 複製\final_project\obj\Debug\final_project.pdb
